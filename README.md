@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently to improve in go and rust.
 
-- 💞️ I’m looking to collaborate on blockchain partners
+- 💞️ I’m looking to collaborate with any blockchain partners
 
 - 📫 Reach me at vincent.lejeune@tempr.ai
