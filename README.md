@@ -6,4 +6,4 @@
 
 - 💞️ I’m looking to collaborate with any blockchain partners
 
-- 📫 Reach me at vincent.lejeune@tempr.ai
+- 📫 Reach me at rapiiidooo.dev+github@gmail.com
